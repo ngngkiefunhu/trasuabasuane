@@ -1,0 +1,8 @@
+{
+  "name": "BA SỮA — Dự Án Kinh Doanh GDKT&PL 11",
+  "description": "Website thuyết trình mô hình kinh doanh Tiệm trà sữa BA SỮA theo Bài 6 môn Giáo dục kinh tế và pháp luật 11. Thực hiện: Nguyễn Ngọc Kiều Như – Lớp 11X.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
